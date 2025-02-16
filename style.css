@@ -1,0 +1,48 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+main {
+  border-radius: 3%;
+  display: flex;
+  background-color: hsl(0, 0%, 12%);
+  color: hsl(0, 0%, 100%);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin: 2em auto;
+
+  height: 80vh;
+  width: 50vh;
+}
+p {
+  font-size: 14px;
+}
+h1 {
+  font-size: 1.5em;
+}
+img {
+  border-radius: 100%;
+  width: 7em;
+  height: 7em;
+}
+li {
+  text-align: center;
+  padding: 1em 5em;
+  margin: 1em auto;
+  background-color: hsl(0, 0%, 20%);
+  border-radius: 7%;
+}
+ul {
+  list-style-type: none;
+}
+.place {
+  color: hsl(75, 94%, 57%);
+}
+li:hover {
+  background-color: hsl(75, 94%, 57%);
+  color: black;
+}
